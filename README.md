@@ -16,7 +16,21 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
-</p>
+</p><br>
+
+- 🔭 I’m currently working on **Socket.io**
+
+- 👯 I’m looking to collaborate on **open source** with some help
+
+- 👨‍💻 All of my projects are available at [**projects**](https://github.com/niku419)
+
+- 💬 Ask me about **React, Firebase, Node and Javascript**
+
+- 🧠 I am currently learning **WebRTC**
+
+- 📫 How to reach me [**2019198@iiitdmj.ac.in**](mailto:2019198@iiitdmj.ac.in)
+
+- 🎧 I like **music**. I have an awesome playlist of some [**songs**](https://open.spotify.com/playlist/6vQGoExt5sD441IWlocBzv?si=59ec349e0ddc458c)
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=niku419&show_icons=true&count_private=true&theme=dark" width="350"></a>
@@ -60,12 +74,12 @@
     </td>
     <td align="center" width="96">
       <a href="#niku419">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+        <img src="./icons/socket.png" width="48" height="48" alt="Socket.io" />
       </a>
     </td>
     <td align="center" width="96">
       <a href="#niku419">
-        <img src="./icons/bootstrap.svg" width="48" height="48" alt="React-Bootstrap" />
+        <img src="./icons/react-bootstrap.svg" width="48" height="48" alt="React-Bootstrap" />
       </a>
     </td>
     <td align="center" width="96">
@@ -108,6 +122,11 @@
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/VSCode.png" width="48" height="48" alt="VSCode" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#niku419">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       </a>
     </td>
     <td align="center" width="96">
