@@ -18,23 +18,34 @@
   </a>&nbsp;&nbsp;
 </p><br>
 
-- 🔭 I’m currently working on **Socket.io**
+<table>
+  <tr>
+    <td>
 
-- 👯 I’m looking to collaborate on **open source** with some help
+  - 🔭 I’m currently working on **Socket.io**
 
-- 👨‍💻 All of my projects are available at [**projects**](https://github.com/niku419)
+  - 👯 I’m looking to collaborate on **open source** with some help
 
-- 💬 Ask me about **React, Firebase, Node and Javascript**
+  - 👨‍💻 All of my projects are available at [**projects**](https://github.com/niku419)
 
-- 🧠 I am currently learning **WebRTC**
+  - 💬 Ask me about **React, Firebase, Node and Javascript**
 
-- 📫 How to reach me [**2019198@iiitdmj.ac.in**](mailto:2019198@iiitdmj.ac.in)
+  - 🧠 I am currently learning **WebRTC**
 
-- 🎧 I like **music**. I have an awesome playlist of some [**songs**](https://open.spotify.com/playlist/6vQGoExt5sD441IWlocBzv?si=59ec349e0ddc458c)
+  - 📫 How to reach me [**2019198@iiitdmj.ac.in**](mailto:2019198@iiitdmj.ac.in)
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=niku419&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+  - 🎧 I like **music**. I have an awesome playlist of some [**songs**](https://open.spotify.com/playlist/6vQGoExt5sD441IWlocBzv?si=59ec349e0ddc458c)
+  </td>
+  <br>
+  <td>
+    <p align="right">
+      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=niku419&show_icons=true&count_private=true&theme=dark" width="350"></a>
+    </p>
+  </td>
+  </tr>
+</table>
+<br>
+<br>
 <table>
   <tr>
     <td align="center" width="96">
