@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there!! This is < Nikhil👨‍💻/>
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<!-- <h3 align="center">looking for a guy? looks like you found him</h3><br> -->
+<h3 align="center">I am a full stack developer from India</h3><br>
 <p align='center'>
   <a href="https://www.linkedin.com/in/niku_419/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,9 +20,9 @@
   </a>&nbsp;&nbsp;
 </p><br>
 
-<table>
-  <tr>
-    <td>
+<div align="center">
+
+  - 🔬 I'm currently studying for a Bachelor's degree at [**IIITDMJ**](iiitdmj.ac.in)
 
   - 🔭 I’m currently working on **Socket.io**
 
@@ -30,22 +32,23 @@
 
   - 💬 Ask me about **React, Firebase, Node and Javascript**
 
-  - 🧠 I am currently learning **WebRTC**
+  - 🧠 I am currently having tough time learning **WebRTC**
 
   - 📫 How to reach me [**2019198@iiitdmj.ac.in**](mailto:2019198@iiitdmj.ac.in)
 
-  - 🎧 I like **music**. I have an awesome playlist of some [**songs**](https://open.spotify.com/playlist/6vQGoExt5sD441IWlocBzv?si=59ec349e0ddc458c)
-  </td>
+  - 💬 Ask me anything about from [*here*](https://github.com/niku419/niku419/issues)
+
+  - 🎧 I like **music** and I have an awesome playlist of some [*songs*](https://open.spotify.com/playlist/6vQGoExt5sD441IWlocBzv?si=59ec349e0ddc458c)
+  </div>
   <br>
-  <td>
-    <p align="right">
-      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=niku419&show_icons=true&count_private=true&theme=dark" width="350"></a>
-    </p>
-  </td>
-  </tr>
-</table>
+  <h2 align="center" id="niku419">My Github Stats</h2><br>
+  <p align="center">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=niku419&show_icons=true&count_private=true&theme=algolia" width="350"></a>
+  </p>
 <br>
 <br>
+<h1>My Personal Favourites</h1>
+> Languages, tools and tech that I work with...<br>
 <table>
   <tr>
     <td align="center" width="96">
