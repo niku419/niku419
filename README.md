@@ -60,47 +60,55 @@
       <a href="#niku419">
         <img src="./icons/css3.png" width="48" height="48" alt="CSS" />
       </a>
-      CSS
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="Javascript" />
       </a>
+      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
       </a>
+      <br>Node JS
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" />
       </a>
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="48" height="48" alt="Firebase" />
       </a>
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/mongodb.png" width="48" height="48" alt="MongoDB" />
       </a>
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/socket.png" width="48" height="48" alt="Socket.io" />
       </a>
+      <br>Socket IO
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/react-bootstrap.svg" width="48" height="48" alt="React-Bootstrap" />
       </a>
+      <br>React-Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/GraphQL.svg" width="48" height="48" alt="GraphQL" />
       </a>
+      <br>GraphQL
     </td>
   </tr>
   <tr>
@@ -108,6 +116,7 @@
       <a href="#niku419">
         <img src="./icons/postman.png" width="48" height="48" alt="Postman" />
       </a>
+      <br>Postman
     </td>
     <td align="center" width="96">
       <a href="#niku419">
@@ -119,41 +128,49 @@
       <a href="#niku419">
         <img src="./icons/redux.svg" width="48" height="48" alt="redux" />
       </a>
+      <br>Redux
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/heroku.png" width="48" height="48" alt="heroku" />
       </a>
+      <br>Heroku
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/netlify.png" width="48" height="48" alt="Netlify" />
       </a>
+      <br>Netlify
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/github-actions.jpg" width="48" height="48" alt="Github-actions" />
       </a>
+      <br>Actions
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/VSCode.png" width="48" height="48" alt="VSCode" />
       </a>
+      <br>VS Code
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       </a>
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/C.png" width="48" height="48" alt="C" />
       </a>
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/C++.png" width="48" height="48" alt="C++" />
       </a>
+      <br>C++
     </td>
   </tr>
 </table>
