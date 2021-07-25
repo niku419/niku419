@@ -54,11 +54,13 @@
       <a href="#niku419">
         <img src="./icons/html.jpg" width="48" height="48" alt="HTML" />
       </a>
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#niku419">
         <img src="./icons/css3.png" width="48" height="48" alt="CSS" />
       </a>
+      CSS
     </td>
     <td align="center" width="96">
       <a href="#niku419">
@@ -111,6 +113,7 @@
       <a href="#niku419">
         <img src="./icons/npm.png" width="48" height="48" alt="NPM" />
       </a>
+      <br>NPM
     </td>
     <td align="center" width="96">
       <a href="#niku419">
