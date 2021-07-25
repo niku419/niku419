@@ -9,13 +9,13 @@
   <a href="https://instagram.com/_niku_419">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://t.me/Niku_419">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="#">
+  <a href="mailto:2019198@iiitdmj.ac.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://www.facebook.com/profile.php?id=100069976086066">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p><br>
@@ -28,7 +28,7 @@
 
   - 👯 I’m looking to collaborate on **open source** with some help
 
-  - 👨‍💻 All of my projects are available at [**projects**](https://github.com/niku419)
+  - 👨‍💻 All of my projects are available at [**projects**](https://github.com/niku419?tab=repositories)
 
   - 💬 Ask me about **React, Firebase, Node and Javascript**
 
@@ -43,11 +43,11 @@
   <br>
   <h2 align="center" id="niku419">My Github Stats</h2><br>
   <p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=niku419&show_icons=true&count_private=true&theme=algolia" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=niku419&show_icons=true&locale=en&theme=algolia" width="350"></a>
   </p>
 <br>
 <h1>My Personal Favourites</h1>
-> Languages, tools and tech that I work with...<br>
+<h3>> Languages, tools and tech that I work with...</h3><br>
 <table>
   <tr>
     <td align="center" width="96">
