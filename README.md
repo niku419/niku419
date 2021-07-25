@@ -46,7 +46,6 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=niku419&show_icons=true&count_private=true&theme=algolia" width="350"></a>
   </p>
 <br>
-<br>
 <h1>My Personal Favourites</h1>
 > Languages, tools and tech that I work with...<br>
 <table>
