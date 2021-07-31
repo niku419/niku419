@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  - 🔬 I'm currently studying for a Bachelor's degree at [**IIITDMJ**](iiitdmj.ac.in)
+  - 🔬 I'm currently studying for a Bachelor's degree at [**IIITDMJ**](https:/iiitdmj.ac.in)
 
   - 🔭 I’m currently working on **Socket.io**
 
