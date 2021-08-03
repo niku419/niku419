@@ -50,9 +50,9 @@
 <h3>> Languages, tools and tech that I work with...</h3><br>
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="2rem">
       <a href="#niku419">
-        <img src="./icons/html.jpg" width="48" height="48" alt="HTML" />
+        <img src="./icons/html.jpg" width="1rem" height="1rem" alt="HTML" />
       </a>
     </td>
     <td align="center" width="96">

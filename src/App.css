@@ -1,0 +1,129 @@
+:root{
+  --backgroundColor: #141b45 !important;
+  --headingTextColor: #b59d5a !important;
+  --textColor: white !important;
+}
+.navbar{
+  border-bottom: 2px solid var(--headingTextColor) !important;
+}
+.home{
+  position: relative;
+}
+#home:after {
+  content:'';
+  background: url('/src/pics/herko.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: absolute;
+  top:0px;
+  left: 0px;
+  width:100%;
+  height:100%;
+  z-index:-1;
+  opacity: 0.1;
+}
+body{
+  background-color: var(--backgroundColor) !important;
+  color: var(--textColor) !important;
+}
+.bg-primary{
+  background-color: var(--backgroundColor) !important;
+}
+.brand{
+  color: var(--headingTextColor) !important;
+  background-color: none !important;
+}
+a {
+  position: relative;
+  color: var(--textColor) !important;
+  text-decoration: none;
+}
+a:hover {
+  color: var(--headingTextColor) !important;
+}
+a::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--headingTextColor);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+a:hover::before {
+  transform: scaleX(1);
+}
+.top-pad {
+  padding-top: 5rem !important;
+}
+.badge{
+  background-color: var(--headingTextColor);
+  font-size: 1.5rem !important;
+  letter-spacing: 0.09rem;
+  padding: 0.02rem;
+  border-radius: 15px 40px 30px 5px !important;
+}
+.reference:hover{
+  background-color: var(--textColor) !important;
+}
+.align-left{
+  padding-left: 5rem !important;
+}
+.btn-primary{
+  background-color: transparent !important;
+  border-color: transparent !important;
+  margin-right: 1rem !important;
+  padding-right: 0.5rem !important;
+  padding-left: 0.5rem !important;
+  padding-top: 0.4 !important;
+  padding-bottom: 0.4rem !important;
+}
+.heading{
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+  letter-spacing: 0.5rem;
+  font-size: 5rem;
+  color: transparent;
+  font-weight: bold;
+  font-stretch: ultra-condensed;
+  background-image: linear-gradient(
+    to right,
+    #462523 0,
+    #cb9b51 22%,
+    #f6e27a 45%,
+    #fdf2c0 50%,
+    #f6e27a 55%,
+    #cb9b51 78%,
+    #462523 100%
+  );
+  -webkit-background-clip: text;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.center-head{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.info:hover{
+  color: var(--headingTextColor) !important;
+}
+.inline{
+  display: inline-block;
+}
+.pad{
+  padding-left: 1rem;
+}
+@media (max-width : 992px){
+  .navbar{
+    background-color: var(--backgroundColor) !important;
+  }
+}
