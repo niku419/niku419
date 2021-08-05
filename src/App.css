@@ -3,11 +3,9 @@
   --headingTextColor: #b59d5a !important;
   --textColor: white !important;
 }
+/* #141b45 */
 .navbar{
   border-bottom: 2px solid var(--headingTextColor) !important;
-}
-.home{
-  position: relative;
 }
 #home:after {
   content:'';
@@ -42,7 +40,7 @@ a {
 a:hover {
   color: var(--headingTextColor) !important;
 }
-a::before {
+.styleline::before {
   content: "";
   position: absolute;
   display: block;
@@ -57,16 +55,32 @@ a::before {
 a:hover::before {
   transform: scaleX(1);
 }
-.top-pad {
-  padding-top: 5rem !important;
-}
 .badge{
-  background-color: var(--headingTextColor);
+  background-image: linear-gradient(
+    to right,
+    #462523 0,
+    #cb9b51 22%,
+    #f6e27a 45%,
+    #f6e27a 55%,
+    #cb9b51 78%,
+    #462523 100%
+  );
   font-size: 1.5rem !important;
   letter-spacing: 0.09rem;
   padding: 0.02rem;
-  border-radius: 15px 40px 30px 5px !important;
+  border-radius: 20px 30px 30px 5px !important;
 }
+.CV{
+  letter-spacing: 0.09rem;
+  padding: 0.02rem;
+  font-size: 1.5rem !important;
+  font-weight: bold !important;
+  color: #cb9b51 !important;
+  border-radius: 30px 30px 30px 30px !important;
+}
+/* .btn-primary{
+  background-color: rgb(13,7,107) !important;
+} */
 .reference:hover{
   background-color: var(--textColor) !important;
 }
@@ -126,4 +140,224 @@ a:hover::before {
   .navbar{
     background-color: var(--backgroundColor) !important;
   }
+  .image{
+    /* width: auto; */
+    height: 15rem !important;
+    background-repeat: no-repeat !important;
+  }
+}
+.top-pad {
+  padding-top: 8rem !important;
+}
+.navbar-light .navbar-toggler {
+  color: var(--headingTextColor) !important;
+  border-color: var(--headingTextColor) !important;
+}
+.navbar-toggler-icon{
+  color: var(--headingTextColor) !important;
+}
+.image{
+  width: auto;
+  height: 10rem;
+  background-repeat: no-repeat !important;
+}
+.about{
+  background-color: #fafbfe !important;
+}
+.heading-about{
+  background-image: linear-gradient(
+    to right,
+    #462523 0,
+    #cb9b51 22%,
+    #f6e27a 45%,
+    #f6e27a 55%,
+    #cb9b51 78%,
+    #462523 100%
+  );
+}
+.btn-outline-dark:hover,.btn-outline-dark:active{
+  color: var(--textColor) !important;
+  border-color: var(--headingTextColor) !important;
+  background-image: linear-gradient(
+    to right,
+    #462523 0,
+    #cb9b51 22%,
+    #cb9b51 78%,
+    #462523 100%
+  ) !important;
+} 
+.btn-outline-dark:focus{
+  box-shadow: var(--backgroundColor) !important;
+}
+.btn-outline-dark{
+  color: var(--headingTextColor) !important;
+  border-color: var(--headingTextColor) !important;
+}
+@import url(https://fonts.googleapis.com/css?family=Exo+2:300,400,700);
+.body{
+  padding:0;
+  margin:0;
+  font-size:14px;
+  font-family: "Exo 2", sans-serif;
+  color: #333;
+}
+
+.card{
+  position: relative;
+  width: 315px; /* Remove for full width */
+  min-height: 360px; /* Remove for full width */
+  margin:30px auto;
+  box-shadow: 0 0 100px rgba(0,0,0, .3);
+}
+.card-header{
+  position: relative;
+  height: 220px;
+  background-size: cover;
+  background-position: top;
+  background-color: var(--backgroundColor) !important;
+}
+.card-header:after{
+  content:'';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to top, #cb9b51, rgb(246, 226, 122, 0.1));
+}
+
+.card-header-bar{
+  position: absolute;
+  top:0;
+  width: 100%;
+  z-index: 1;
+  width: 100%;
+}
+
+.sr-only{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  clip: rect(0,0,0,0);
+  border: none;
+  overflow: hidden;
+}
+.btn-message{
+  display: inline-block;
+  background: url(https://res.cloudinary.com/dj14cmwoz/image/upload/v1491077483/profile-card/images/message.svg) no-repeat;
+  width: 19.37px;
+  height: 16.99px;
+  margin-right:10px;
+  margin-top:10px;
+  float: right;
+}
+.btn-menu{
+  display: inline-block;
+  background: url(https://res.cloudinary.com/dj14cmwoz/image/upload/v1491077483/profile-card/images/menu.svg) no-repeat;
+  width: 19px;
+  height: 12.16px;
+  margin-left:10px;
+  margin-top:10px;
+  float: left;
+}
+
+svg .polygon{
+  fill: var(--backgroundColor);
+}
+.card-header-slanted-edge{
+  position: absolute;
+  bottom: -3px;
+  z-index: 1;
+  width: 100%;
+  right:0;
+  left:0;
+}
+
+.btn-follow{
+  position: absolute;
+  top: -15px;
+  right: 25px;
+  width: 45px;
+  height: 45px;
+  background: linear-gradient(to left, #2D77C1, #68FAC2);
+  border-radius:100%;
+  box-shadow: 0 10px 15px rgba(110,221,235, .53);
+}
+
+.btn-follow:after{
+  content: '';
+  position:absolute;
+  background: url(https://res.cloudinary.com/dj14cmwoz/image/upload/v1491077480/profile-card/images/add.svg) no-repeat;
+  width:17px;
+  height: 17px;
+  left: 50%;
+  top:50%;
+  transform: translate(-50%, -50%);
+}
+
+.card-body{
+  text-align:center;
+  padding-left: 10px;
+  background-color: var(--backgroundColor) !important;
+}
+
+.name{
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+
+.job-title{
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 5px;
+  color: #919191;
+}
+
+.bio{
+  font-size: 14px;
+  color: #7B7B7B;
+  font-weight: 300;
+  margin: 10px auto;
+  line-height: 20px;
+}
+
+.social-accounts img{
+  width: 15px;
+}
+
+.social-accounts a{
+  margin-left: 10px;
+}
+.social-accounts a:first-child{
+  margin-left: 0;
+}
+
+.card-footer{
+  /*position:fixed; /* Full card width/height */
+  position: absolute; /* Fixed card width/height */
+
+  left: 0;
+  width: 100%;
+  bottom: 20px;
+}
+.stat{
+  box-sizing: border-box;
+  width: calc(100% / 3);
+  float: left;
+  text-align: center;
+  border-left: 1px solid #EBEBEB;
+}
+.stat .label{
+  display: block;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 11px;
+  letter-spacing: 1px;
+  color: #95989A;
+}
+.stat .value{
+  display: block;
+  font-weight: 700;
+  font-size:20px;
+  margin-top: 5px;
 }
