@@ -64,25 +64,25 @@
     </td>
     <td align="center" width="96">
       <a href="#niku419">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="Javascript" />
+        <img src="./icons/javascript.png" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#niku419">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+        <img src="./icons/nodeJS.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="96">
       <a href="#niku419">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" />
+        <img src="./icons/react.png" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#niku419">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="48" height="48" alt="Firebase" />
+        <img src="./icons/firebase.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
@@ -156,7 +156,7 @@
     </td>
     <td align="center" width="96">
       <a href="#niku419">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+        <img src="./icons/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
