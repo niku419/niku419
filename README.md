@@ -32,7 +32,7 @@
 
   - 💬 Ask me about **React, Firebase, Node and Javascript**
 
-  - 🧠 I am currently having tough time learning **WebRTC**
+  - 🧠 I am currently having tough time learning **WebRTC** & **socket.io**
 
   - 📫 How to reach me [**2019198@iiitdmj.ac.in**](mailto:2019198@iiitdmj.ac.in)
 
