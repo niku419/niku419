@@ -3,7 +3,7 @@
 <!-- <h3 align="center">looking for a guy? looks like you found him</h3><br> -->
 <h3 align="center">I am a full stack developer from India</h3><br>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/niku419/">
+  <a href="https://www.linkedin.com/in/niku-419/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/_niku_419">
