@@ -24,7 +24,7 @@
 
   - 🔬 I'm currently studying for a Bachelor's degree at [**IIITDMJ**](https://iiitdmj.ac.in)
 
-  - 🔭 I’m currently making my **resume** ready
+  - 🔭 I’m currently making my **payment** based app
 
   - 👯 I’m looking to collaborate on **open source** with some help
 
