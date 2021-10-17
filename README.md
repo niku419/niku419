@@ -24,7 +24,7 @@
 
   - 🔬 I'm currently studying for a Bachelor's degree at [**IIITDMJ**](https://iiitdmj.ac.in)
 
-  - 🔭 I’m currently making a **scholar subscription** app for my neighbour
+  - 🔭 I’m currently making a **GraphQL** service based app with ant design
 
   - 👯 I’m looking to collaborate on **open source** with some help
 
