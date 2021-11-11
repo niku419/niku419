@@ -26,7 +26,7 @@
 
   - 🔭 I’m currently making a **GraphQL** service based app with ant design
 
-  - 👯 I’m looking to collaborate on **open source** with some help
+  - 👯 I’m looking to collaborate on **Next.js** with some help
 
   - 👨‍💻 All of my projects are available at [**projects**](https://github.com/niku419?tab=repositories)
 
