@@ -52,7 +52,7 @@
   <tr>
     <td align="center" width="2rem">
       <a href="#niku419">
-        <img src="./icons/html.jpg" width="1rem" height="1rem" alt="HTML" />
+        <img src=https://cdn-icons-png.flaticon.com/512/732/732212.png" width="1rem" height="1rem" alt="HTML" />
       </a>
       <br>HTML
     </td>
